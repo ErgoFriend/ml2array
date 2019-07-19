@@ -1,4 +1,4 @@
-# ml2array
+# Golang: mutiline string to []string
 
 ## Installation
 
