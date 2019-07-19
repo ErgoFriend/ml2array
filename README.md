@@ -1,4 +1,4 @@
-# Golang: mutiline string to []string
+# Golang: multiline string to []string
 
 ## Installation
 
